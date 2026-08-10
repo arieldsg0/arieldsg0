@@ -3,7 +3,7 @@
 Sou um profissional apaixonado por tecnologia, design e pelo mundo audiovisual. Meu foco é unir criatividade e inteligência artificial para otimizar processos e criar projetos visuais impactantes.
 
 ### 🚀 Sobre mim
-* 🎓 **Estudante no IFSul**, em constante desenvolvimento e aprendizado tecnológico.
+* 🎓 **Estudante de Ciência da Computação no IFSul**, apaixonado por resolver problemas e criar soluções tecnológicas.
 * 🎬 Atuo com edição de vídeos, construindo narrativas dinâmicas e retendo a atenção do público.
 * 🤖 Tenho explorado intensamente ferramentas de IA para geração de imagens hiper-realistas, animação e transcrição.
 * 💻 Trabalho com a criação de interfaces e landing pages dinâmicas utilizando plataformas como o Carrd.
@@ -16,3 +16,4 @@ Sou um profissional apaixonado por tecnologia, design e pelo mundo audiovisual. 
 
 ### 📫 Como me encontrar
 * **E-mail:** arieldsg07@gmail.com
+
